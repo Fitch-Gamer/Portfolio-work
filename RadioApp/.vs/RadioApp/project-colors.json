@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a31554c6-49ef-41a6-97be-31e39382a367": {
+      "ProjectGuid": "a31554c6-49ef-41a6-97be-31e39382a367",
+      "DisplayName": "RadioApp",
+      "ColorIndex": 0
+    },
+    "1d5fce24-8c6b-4d06-bacb-5df66bc86085": {
+      "ProjectGuid": "1d5fce24-8c6b-4d06-bacb-5df66bc86085",
+      "DisplayName": "RadioApp.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

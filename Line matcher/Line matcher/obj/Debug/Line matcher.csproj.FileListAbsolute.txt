@@ -1,0 +1,10 @@
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\bin\Debug\Line matcher.exe.config
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\bin\Debug\Line matcher.exe
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\bin\Debug\Line matcher.pdb
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\obj\Debug\Line matcher.csproj.AssemblyReference.cache
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\obj\Debug\Line_matcher.Form1.resources
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\obj\Debug\Line_matcher.Properties.Resources.resources
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\obj\Debug\Line matcher.csproj.GenerateResource.cache
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\obj\Debug\Line matcher.csproj.CoreCompileInputs.cache
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\obj\Debug\Line matcher.exe
+C:\Users\Finley\Desktop\Coding\projects\Line matcher\Line matcher\obj\Debug\Line matcher.pdb

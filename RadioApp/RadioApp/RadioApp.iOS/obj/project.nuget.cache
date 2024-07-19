@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZodjTzrOoEU2ujunCybsn4XeFOsKrBOKyh406jtN3XV9KHqZdtSpN04RX9Q9FDZ16HRwV2rApRz/w6JPipeXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Finley\\Desktop\\Coding\\projects\\RadioApp\\RadioApp\\RadioApp.iOS\\RadioApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Finley\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Finley\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Finley\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
