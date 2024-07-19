@@ -1,0 +1,15 @@
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\bin\Debug\net7.0\NameToElements.exe
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\bin\Debug\net7.0\NameToElements.deps.json
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\bin\Debug\net7.0\NameToElements.runtimeconfig.json
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\bin\Debug\net7.0\NameToElements.dll
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\bin\Debug\net7.0\NameToElements.pdb
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.csproj.AssemblyReference.cache
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.AssemblyInfoInputs.cache
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.AssemblyInfo.cs
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.csproj.CoreCompileInputs.cache
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.dll
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\refint\NameToElements.dll
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.pdb
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\NameToElements.genruntimeconfig.cache
+C:\Users\fitch\Desktop\Coding\Projects\NameToElements\NameToElements\obj\Debug\net7.0\ref\NameToElements.dll
