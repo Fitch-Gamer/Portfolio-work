@@ -1,0 +1,10 @@
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\bin\Debug\RocketSim.exe.config
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\bin\Debug\RocketSim.exe
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\bin\Debug\RocketSim.pdb
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\obj\Debug\RocketSim.csproj.AssemblyReference.cache
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\obj\Debug\RocketSim.Form1.resources
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\obj\Debug\RocketSim.Properties.Resources.resources
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\obj\Debug\RocketSim.csproj.GenerateResource.cache
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\obj\Debug\RocketSim.csproj.CoreCompileInputs.cache
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\obj\Debug\RocketSim.exe
+C:\Users\Finley\Desktop\Coding\projects\RocketSim\RocketSim\obj\Debug\RocketSim.pdb
